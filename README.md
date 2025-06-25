@@ -5,19 +5,7 @@ ML-based anomaly detection for log files
 
 ## Project Structure
 
-log-anomaly-detector/
-│
-├── data/                  # Sample log files (raw & preprocessed)
-├── notebooks/             # Jupyter Notebooks for exploration
-├── src/                   # Python modules
-│   ├── parser.py          # Log parsing utilities
-│   ├── features.py        # Feature engineering
-│   ├── model.py           # ML training/inference
-│   └── utils.py           # Helper functions
-├── models/                # Saved ML models
-├── requirements.txt       # Python dependencies
-├── README.md              # Project overview
-└── run.py                 # CLI to run the pipeline
+![image](https://github.com/user-attachments/assets/c97d95ba-7615-4925-8b1a-5da0f1c14a0c)
 
 
 This project will apply machine learning to detect anomalies in system log files. It will include:
