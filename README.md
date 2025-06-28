@@ -48,12 +48,16 @@ cd shodan-gpt-analyzer
 
 2. **Install dependencies**
 
+```bash
 pip install -r requirements.txt
+```
 
 3. **Configure API keys**
 
 In config.py, add your Shodan and OpenAI keys:
 
+```bash
 OPENAI_KEY = "your-openai-key"
 SHODAN_KEY = "your-shodan-key"
 MODEL = "gpt-4"  # or "gpt-3.5-turbo"
+```
