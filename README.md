@@ -61,3 +61,28 @@ OPENAI_KEY = "your-openai-key"
 SHODAN_KEY = "your-shodan-key"
 MODEL = "gpt-4"  # or "gpt-3.5-turbo"
 ```
+
+
+## 🚀 Usage
+
+A. **CLI Mode**
+
+```bash
+python app.py --query "port:21 Anonymous" --output results/report.csv
+```
+
+B. **Streamlit Dashboard (Optional)**
+
+```bash
+streamlit run src/dashboard.py
+```
+
+
+## 🔒 Use Cases
+- AI-assisted threat reconnaissance
+- Red team & pentest prep automation
+- SOC analyst tooling augmentation
+- GenAI for OSINT and security research
+
+##🛡️ Disclaimer
+This tool is intended for educational and ethical use only. Do not use it to scan or analyze unauthorized systems. The developer is not responsible for misuse.
