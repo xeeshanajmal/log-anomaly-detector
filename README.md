@@ -1,4 +1,4 @@
-# log-anomaly-detector
+# ShodanGPT: AI-Augmented Threat Intelligence Dashboard
 ML-based anomaly detection for log files
 
 🚧 **Project in Progress**
