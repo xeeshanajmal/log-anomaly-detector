@@ -84,5 +84,5 @@ streamlit run src/dashboard.py
 - SOC analyst tooling augmentation
 - GenAI for OSINT and security research
 
-##🛡️ Disclaimer
+## 🛡️ Disclaimer
 This tool is intended for educational and ethical use only. Do not use it to scan or analyze unauthorized systems. The developer is not responsible for misuse.
