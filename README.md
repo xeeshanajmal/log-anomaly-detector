@@ -43,3 +43,17 @@ This project bridges the gap between **raw OSINT data** and **actionable threat 
 ```bash
 git clone https://github.com/yourusername/shodan-gpt-analyzer.git
 cd shodan-gpt-analyzer
+```
+
+
+2. **Install dependencies**
+
+pip install -r requirements.txt
+
+3. **Configure API keys**
+
+In config.py, add your Shodan and OpenAI keys:
+
+OPENAI_KEY = "your-openai-key"
+SHODAN_KEY = "your-shodan-key"
+MODEL = "gpt-4"  # or "gpt-3.5-turbo"
