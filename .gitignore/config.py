@@ -1,8 +1,0 @@
-
-
-# config.py
-
-OPENAI_KEY = "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"
-
-SHODAN_KEY = "PK3vNoYPVmVeAwcMGrLE9mgdtL9Ejd0n"
-MODEL = "gpt-3.5-turbo"  # Or "gpt-3.5-turbo" if needed
